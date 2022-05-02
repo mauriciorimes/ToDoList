@@ -1,0 +1,1 @@
+To do list, que armazena no storage do navegador, que mesmo atualizando a página, mantem as tarefas já adicionadas.
